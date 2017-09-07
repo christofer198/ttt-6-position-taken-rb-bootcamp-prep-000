@@ -4,7 +4,5 @@ def position_taken(board, index)
 
   if board[index] == nil
     return false
-  else
-    puts "Postion Taken"
   end
 end
