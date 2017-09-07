@@ -2,8 +2,8 @@
 
 def position_taken(board, index)
 
-  if array[value] == ""
-    #execute board code
+  if board[index] == nil
+    return false
   else
     puts "Postion Taken"
   end
