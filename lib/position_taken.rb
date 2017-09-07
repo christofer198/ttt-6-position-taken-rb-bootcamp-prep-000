@@ -8,4 +8,3 @@ def position_taken(board, index)
     puts "Postion Taken"
   end
 end
-  
